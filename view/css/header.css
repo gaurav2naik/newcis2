@@ -1,0 +1,163 @@
+#b
+{
+	width : 100%;
+	background-color: white;
+	float : left;
+	margin-bottom : 0%;
+}
+#b1
+{
+	width : 10%;
+	background-color : white;
+	float:left;
+	
+}
+#b2
+{
+	background-color :#1794DC;
+	display : inline;
+	float : right;
+	width : 88%;
+	margin-bottom : 0%;
+	text-align: left;
+	padding-top : 0.5%;
+	margin-left : 2%;
+	margin-top : 0%;
+}
+#Mainheader
+{
+	background-color: white;
+	width : 100%;
+	float:left;
+	text-align:left;
+	border-bottom : 1px solid white;
+}
+.menudata
+{
+	font-family: Verdana, sans-serif;
+	background-color: #1794DC;
+	width : 07%;
+	display : inline;
+	margin-top : 10%;
+	border-right : 1px solid white;
+	color : white;
+	text-align : center;
+	padding-top : 1%;
+	padding-left : 1.5%;
+	padding-bottom : 1%;
+	padding-right : 1.5%;
+	font-size : 15px;
+	border-radius: 0px;
+}
+.menudata :HOVER
+{
+	background-color : #25aae1;
+	border : 12px solid #25aae1;
+	
+}
+.rmenudata
+{
+    float : right;
+    font-size : 13px;
+	whidth : 15%;
+	padding-right : 1%;
+	padding-left : 1%;
+	text-align : center;
+	background-color:  #1794DC;
+	border-right : 1px solid white;
+	display : inline;
+	font-family: Verdana, sans-serif;
+}
+.rmenudatar
+{
+	font-family: Verdana, sans-serif;
+	background-color : #1794DC;
+	float : right;
+	width : 18%;
+	padding-top : 0.6%;
+	padding-bottom : 0.5%;
+	padding-top : 0%;
+	padding-right : 1%;
+	border-bottom-left-radius: 90px;
+	padding-left : 1%;
+}
+.rmenudatar :HOVER
+{
+	background-color :#25aae1 ;
+	border : 0px solid #25aae1;
+}
+#colorinsert
+{
+    color : #1691D8;
+	width : 20%;
+	margin-left : 3%;
+	margin-bottom :0px;
+	display : inline;
+	background-color: blue;
+	border-bottom-left-radius: 5px;
+}
+
+.rmenudatafirst
+{
+	float : right;
+	width : 20%;
+	padding-right : 1%;
+	padding-left : 1%;
+	text-align : center;
+	font-size : 13px;
+    font-family: Verdana, sans-serif;
+	display : inline;
+}
+#welcomenote
+{
+
+	float : right;
+	display : inline;
+	color : white;
+	padding-right : 1%;
+	font-size : 20px;
+	font-family: Verdana, sans-serif;
+	margin-right : 0%;
+	margin-bottom : 1%;
+	text-decoration: none;
+}
+#a1
+{
+	text-decoration: none;
+	color : white;
+}
+#a2
+{
+	text-decoration: none;
+	color : white;
+}
+#a3
+{
+	text-decoration: none;
+	color : white;
+}
+#a4
+{
+	text-decoration: none;
+	color : white;
+}
+#a5
+{
+	text-decoration: none;
+	color : white;
+}
+#note
+{
+	width : 88%;
+	float : right;
+	text-align : right;
+	background-color : #1794DC;
+	margin-left : 12%;
+    font-family: Verdana, sans-serif
+	padding-top : 0.2%;
+	font-size : 13px;
+	color : white;
+}
+
+
+
