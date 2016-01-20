@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CISConfiguration>
 	<CISDatabase>
-		<IPAddress>52.35.199.31</IPAddress>
+		<IPAddress>52.11.247.21</IPAddress>
 		<!-- <Port>27017</Port>
 		<DBName>EPM</DBName>	
 		<UserName>EPMUser</UserName>	
